@@ -2,6 +2,12 @@
 
 Labeled: V-NAND SSD 990 PRO - PCIE NVMe4.0 M.2 ssd - 4TB
 
+![Front](1-2-front.jpg)
+Front by colors and labels mimicks a Samsung 990 Pro SSD, besides of not mentioning Samsung
+
+![Back](2-2-back.jpg)
+Back
+
 Mimicking
 
 Short tests show indicate read performance between 2000-2500 MB/s. 

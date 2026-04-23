@@ -22,6 +22,13 @@ Looks like a fake drive.
 
 arrived: 2026-04-21
 
+
+![Front](1-2-front.jpg)
+Front indicates a Western Digital WD Black SN850X NVMe SSD.
+
+![Back](2-2-back.jpg)
+Back mentions Samsung, take note of the mirrored ("c") in the web-address.
+
 ## Readonly Tests
 
 GPT formatted disk with 3.64 TiB in two windows partitions (128 MB, 4.6 TB).
