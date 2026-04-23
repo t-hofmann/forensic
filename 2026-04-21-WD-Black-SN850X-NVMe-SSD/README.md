@@ -2,16 +2,21 @@
 
 [Specification@sandisk](https://documents.sandisk.com/content/dam/asset-library/en_us/assets/public/sandisk/product/internal-drives/wd-black-ssd/data-sheet-wd-black-sn850x-nvme-ssd.pdf)
 
-It is supposed to a WD Black SN850X NVMe SSD with 4TB without heatsink, according to the specification above, that would correspond to the model "WDS400T2X0E":
+## TLDR
 
-PCIe Gen4 up to 4 lanes
+It is supposed to a WD Black SN850X NVMe SSD with 4TB without heatsink, according to the specification above, that would correspond to the model "WDS400T2X0E" supporting PCIe Gen4 with up to 4 lanes.
 
-|||
-|:--- | ---: |
-|Sequential Read | 7300 MB/s |
-|Sequential Write | 6600 MB/s |
-|Random Read | 1200 IOPS |
-|Random Write | 1100 IOPS |
+|                   |Specification  | Real          |
+| :-                | -:            | -:            |
+| Sequential Read   | 7300 MB/s     | 30-60 MB/s    |
+|     - Sustained   |               | n/a           |
+| Sequential Write  | 6600 MB/s     | n/a           |
+|     - Sustained   |               | n/a           |
+| Random Read       | 1200 IOPS     | n/a           |
+| Random Write      | 1100 IOPS     | n/a           |
+| Capacity          | 4 TB          | n/a           |
+
+Looks like a fake drive.
 
 ## Analysis
 
