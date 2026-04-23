@@ -1,0 +1,6 @@
+# sudo time dd if=/dev/nvme0n1 of=/dev/null bs=1M count=1k seek=6000 >> 80-dd-if_nvme0n1.txt
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 44.0501 s, 24.4 MB/s
+0.01user 1.05system 0:44.05elapsed 2%CPU (0avgtext+0avgdata 2788maxresident)k
+2097408inputs+0outputs (0major+358minor)pagefaults 0swaps

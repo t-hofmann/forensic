@@ -1,0 +1,29 @@
+Smart Log for NVME device:nvme1n1 namespace-id:ffffffff
+critical_warning			: 0
+      Available Spare[0]             : 0
+      Temp. Threshold[1]             : 0
+      NVM subsystem Reliability[2]   : 0
+      Read-only[3]                   : 0
+      Volatile mem. backup failed[4] : 0
+      Persistent Mem. RO[5]          : 0
+temperature				: 40 °C (313 K)
+available_spare				: 100%
+available_spare_threshold		: 32%
+percentage_used				: 0%
+endurance group critical warning summary: 0
+Data Units Read				: 31900 (16.33 GB)
+Data Units Written			: 2048 (1.05 GB)
+host_read_commands			: 126338
+host_write_commands			: 8102
+controller_busy_time			: 0
+power_cycles				: 5
+power_on_hours				: 0
+unsafe_shutdowns			: 1
+media_errors				: 0
+num_err_log_entries			: 0
+Warning Temperature Time		: 0
+Critical Composite Temperature Time	: 0
+Thermal Management T1 Trans Count	: 0
+Thermal Management T2 Trans Count	: 0
+Thermal Management T1 Total Time	: 0
+Thermal Management T2 Total Time	: 0
