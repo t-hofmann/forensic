@@ -1,0 +1,5 @@
+Timing buffered disk reads: 422 MB in  3.02 seconds = 139.78 MB/sec
+Timing buffered disk reads: 742 MB in  3.02 seconds = 245.81 MB/sec
+Timing buffered disk reads: 1148 MB in  3.05 seconds = 376.02 MB/sec
+Timing buffered disk reads: 1056 MB in  3.00 seconds = 351.86 MB/sec
+Timing buffered disk reads: 3104 MB in  3.00 seconds = 1034.11 MB/sec

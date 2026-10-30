@@ -20,3 +20,4 @@ fio --name WRITE_TEST \
     --eta-newline=5s --size=500m --io_size=10g --blocksize=1024k \
     --ioengine=libaio --fsync=10000 --iodepth=32 --direct=1 \
     --numjobs=1 --runtime=60 --group_reporting
+
